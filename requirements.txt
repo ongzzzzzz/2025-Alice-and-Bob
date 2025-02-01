@@ -1,0 +1,18 @@
+--find-links https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
+# JAX
+jax[cuda12]
+# IPython Kernel
+ipykernel
+# Qutip
+qutip >= 5.1.0
+# Alice and Bob's dynamiqs
+dynamiqs >= 0.3.0
+# symbolics
+pybolano
+sympy
+# plotting
+matplotlib
+holoviews
+# numerics and scientific tools
+scipy
+numpy
